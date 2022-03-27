@@ -27,8 +27,6 @@ body {
 }
 
 .Boxs:hover {
-  /* background: hsl(125deg 93% 66%); */
-  background-color: aqua;
-  /* box-shadow: 0rem 0rem 10px 0px hsl(125deg 91% 73%); */
-  box-shadow: 0rem 0rem 10px 0px aqua;
+  background: hsl(125deg 93% 66%);
+  box-shadow: 0rem 0rem 10px 0px hsl(125deg 91% 73%);
 }
